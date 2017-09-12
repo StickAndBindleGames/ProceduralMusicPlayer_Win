@@ -1,0 +1,62 @@
+ManifestFileVersion: 0
+CRC: 2064948010
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 98ff6df07de68823d7c1d853ab2021c8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ce5c88399ab7ae5baf31f4128a050af
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 714e2c3bea7834f41900e22765a0a11a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/MusicGenerator/Resources/Music/ContrabassShortMix_2/19.mp3
+- Assets/MusicGenerator/Resources/Music/ContrabassShortMix_2/23.mp3
+- Assets/MusicGenerator/Resources/Music/ContrabassShortMix_2/26.mp3
+- Assets/MusicGenerator/Resources/Music/ContrabassShortMix_2/27.mp3
+- Assets/MusicGenerator/Resources/Music/ContrabassShortMix_2/18.mp3
+- Assets/MusicGenerator/Resources/Music/ContrabassShortMix_2/20.mp3
+- Assets/MusicGenerator/Resources/Music/ContrabassShortMix_2/12.mp3
+- Assets/MusicGenerator/Resources/Music/ContrabassShortMix_2/21.mp3
+- Assets/MusicGenerator/Resources/Music/ContrabassShortMix_2/31.mp3
+- Assets/MusicGenerator/Resources/Music/ContrabassShortMix_2/2.mp3
+- Assets/MusicGenerator/Resources/Music/ContrabassShortMix_2/5.mp3
+- Assets/MusicGenerator/Resources/Music/ContrabassShortMix_2/29.mp3
+- Assets/MusicGenerator/Resources/Music/ContrabassShortMix_2/28.mp3
+- Assets/MusicGenerator/Resources/Music/ContrabassShortMix_2/11.mp3
+- Assets/MusicGenerator/Resources/Music/ContrabassShortMix_2/24.mp3
+- Assets/MusicGenerator/Resources/Music/ContrabassShortMix_2/34.mp3
+- Assets/MusicGenerator/Resources/Music/ContrabassShortMix_2/17.mp3
+- Assets/MusicGenerator/Resources/Music/ContrabassShortMix_2/25.mp3
+- Assets/MusicGenerator/Resources/Music/ContrabassShortMix_2/1.mp3
+- Assets/MusicGenerator/Resources/Music/ContrabassShortMix_2/15.mp3
+- Assets/MusicGenerator/Resources/Music/ContrabassShortMix_2/3.mp3
+- Assets/MusicGenerator/Prefabs/ContrabassShortMix_2.prefab
+- Assets/MusicGenerator/Resources/Music/ContrabassShortMix_2/7.mp3
+- Assets/MusicGenerator/Resources/Music/ContrabassShortMix_2/6.mp3
+- Assets/MusicGenerator/Resources/Music/ContrabassShortMix_2/32.mp3
+- Assets/MusicGenerator/Resources/Music/ContrabassShortMix_2/9.mp3
+- Assets/MusicGenerator/Resources/Music/ContrabassShortMix_2/16.mp3
+- Assets/MusicGenerator/Resources/Music/ContrabassShortMix_2/14.mp3
+- Assets/MusicGenerator/Resources/Music/ContrabassShortMix_2/13.mp3
+- Assets/MusicGenerator/Resources/Music/ContrabassShortMix_2/30.mp3
+- Assets/MusicGenerator/Resources/Music/ContrabassShortMix_2/10.mp3
+- Assets/MusicGenerator/Resources/Music/ContrabassShortMix_2/4.mp3
+- Assets/MusicGenerator/Resources/Music/ContrabassShortMix_2/22.mp3
+- Assets/MusicGenerator/Resources/Music/ContrabassShortMix_2/8.mp3
+- Assets/MusicGenerator/Resources/Music/ContrabassShortMix_2/35.mp3
+- Assets/MusicGenerator/Resources/Music/ContrabassShortMix_2/36.mp3
+- Assets/MusicGenerator/Resources/Music/ContrabassShortMix_2/33.mp3
+Dependencies: []

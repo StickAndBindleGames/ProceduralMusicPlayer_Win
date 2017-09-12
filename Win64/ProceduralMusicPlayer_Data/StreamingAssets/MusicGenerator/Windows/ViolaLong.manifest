@@ -1,0 +1,62 @@
+ManifestFileVersion: 0
+CRC: 2924541054
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 05cdf0646b551633e55e94734ae0cf74
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ce5c88399ab7ae5baf31f4128a050af
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 714e2c3bea7834f41900e22765a0a11a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/MusicGenerator/Assets/Resources/Music/ViolaLong/9.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ViolaLong/7.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ViolaLong/5.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ViolaLong/6.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ViolaLong/27.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ViolaLong/35.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ViolaLong/28.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ViolaLong/12.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ViolaLong/30.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ViolaLong/23.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ViolaLong/25.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ViolaLong/14.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ViolaLong/2.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ViolaLong/4.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ViolaLong/29.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ViolaLong/21.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ViolaLong/18.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ViolaLong/19.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ViolaLong/20.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ViolaLong/17.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ViolaLong/13.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ViolaLong/24.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ViolaLong/1.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ViolaLong/26.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ViolaLong/15.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ViolaLong/32.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ViolaLong/10.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ViolaLong/33.mp3
+- Assets/TempMusicPrefabs/ViolaLong.prefab
+- Assets/MusicGenerator/Assets/Resources/Music/ViolaLong/22.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ViolaLong/8.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ViolaLong/3.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ViolaLong/36.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ViolaLong/31.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ViolaLong/16.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ViolaLong/11.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ViolaLong/34.mp3
+Dependencies: []

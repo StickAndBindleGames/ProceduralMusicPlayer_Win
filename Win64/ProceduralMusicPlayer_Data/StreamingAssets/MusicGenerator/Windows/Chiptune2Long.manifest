@@ -1,0 +1,62 @@
+ManifestFileVersion: 0
+CRC: 3085209631
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ba02646118c540b17ddae799395b6dd3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ce5c88399ab7ae5baf31f4128a050af
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 714e2c3bea7834f41900e22765a0a11a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/MusicGenerator/Assets/Resources/Music/Chiptune2Long/26.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/Chiptune2Long/15.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/Chiptune2Long/24.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/Chiptune2Long/27.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/Chiptune2Long/3.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/Chiptune2Long/18.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/Chiptune2Long/30.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/Chiptune2Long/14.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/Chiptune2Long/16.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/Chiptune2Long/28.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/Chiptune2Long/5.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/Chiptune2Long/12.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/Chiptune2Long/33.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/Chiptune2Long/8.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/Chiptune2Long/11.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/Chiptune2Long/34.mp3
+- Assets/TempMusicPrefabs/Chiptune2Long.prefab
+- Assets/MusicGenerator/Assets/Resources/Music/Chiptune2Long/10.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/Chiptune2Long/36.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/Chiptune2Long/25.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/Chiptune2Long/31.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/Chiptune2Long/1.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/Chiptune2Long/19.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/Chiptune2Long/35.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/Chiptune2Long/9.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/Chiptune2Long/4.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/Chiptune2Long/2.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/Chiptune2Long/32.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/Chiptune2Long/29.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/Chiptune2Long/20.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/Chiptune2Long/6.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/Chiptune2Long/21.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/Chiptune2Long/22.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/Chiptune2Long/17.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/Chiptune2Long/13.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/Chiptune2Long/23.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/Chiptune2Long/7.mp3
+Dependencies: []

@@ -1,0 +1,62 @@
+ManifestFileVersion: 0
+CRC: 1956190563
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 11d39c9f78902b647805ed325af79a9e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ce5c88399ab7ae5baf31f4128a050af
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 714e2c3bea7834f41900e22765a0a11a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/MusicGenerator/Resources/Music/Glockenspiel/1.mp3
+- Assets/MusicGenerator/Resources/Music/Glockenspiel/17.mp3
+- Assets/MusicGenerator/Resources/Music/Glockenspiel/28.mp3
+- Assets/MusicGenerator/Resources/Music/Glockenspiel/12.mp3
+- Assets/MusicGenerator/Resources/Music/Glockenspiel/6.mp3
+- Assets/MusicGenerator/Resources/Music/Glockenspiel/26.mp3
+- Assets/MusicGenerator/Resources/Music/Glockenspiel/13.mp3
+- Assets/MusicGenerator/Resources/Music/Glockenspiel/23.mp3
+- Assets/MusicGenerator/Resources/Music/Glockenspiel/15.mp3
+- Assets/MusicGenerator/Resources/Music/Glockenspiel/24.mp3
+- Assets/MusicGenerator/Resources/Music/Glockenspiel/36.mp3
+- Assets/MusicGenerator/Resources/Music/Glockenspiel/32.mp3
+- Assets/MusicGenerator/Resources/Music/Glockenspiel/4.mp3
+- Assets/MusicGenerator/Resources/Music/Glockenspiel/30.mp3
+- Assets/MusicGenerator/Resources/Music/Glockenspiel/5.mp3
+- Assets/MusicGenerator/Resources/Music/Glockenspiel/25.mp3
+- Assets/MusicGenerator/Resources/Music/Glockenspiel/8.mp3
+- Assets/MusicGenerator/Resources/Music/Glockenspiel/3.mp3
+- Assets/MusicGenerator/Resources/Music/Glockenspiel/35.mp3
+- Assets/MusicGenerator/Resources/Music/Glockenspiel/27.mp3
+- Assets/MusicGenerator/Resources/Music/Glockenspiel/16.mp3
+- Assets/MusicGenerator/Resources/Music/Glockenspiel/9.mp3
+- Assets/MusicGenerator/Resources/Music/Glockenspiel/21.mp3
+- Assets/MusicGenerator/Resources/Music/Glockenspiel/31.mp3
+- Assets/MusicGenerator/Prefabs/Glockenspiel.prefab
+- Assets/MusicGenerator/Resources/Music/Glockenspiel/11.mp3
+- Assets/MusicGenerator/Resources/Music/Glockenspiel/22.mp3
+- Assets/MusicGenerator/Resources/Music/Glockenspiel/29.mp3
+- Assets/MusicGenerator/Resources/Music/Glockenspiel/33.mp3
+- Assets/MusicGenerator/Resources/Music/Glockenspiel/14.mp3
+- Assets/MusicGenerator/Resources/Music/Glockenspiel/7.mp3
+- Assets/MusicGenerator/Resources/Music/Glockenspiel/19.mp3
+- Assets/MusicGenerator/Resources/Music/Glockenspiel/34.mp3
+- Assets/MusicGenerator/Resources/Music/Glockenspiel/2.mp3
+- Assets/MusicGenerator/Resources/Music/Glockenspiel/10.mp3
+- Assets/MusicGenerator/Resources/Music/Glockenspiel/20.mp3
+- Assets/MusicGenerator/Resources/Music/Glockenspiel/18.mp3
+Dependencies: []

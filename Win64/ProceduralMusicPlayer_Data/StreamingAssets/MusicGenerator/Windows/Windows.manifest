@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 1570992883
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: GeneratorMixer
+      Dependencies: {}
+    Info_1:
+      Name: InstrumentUIObject
+      Dependencies: {}

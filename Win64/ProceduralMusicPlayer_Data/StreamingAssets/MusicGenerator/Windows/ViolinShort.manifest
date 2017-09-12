@@ -1,0 +1,62 @@
+ManifestFileVersion: 0
+CRC: 1921818805
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3b128740fec48f7a4c6ee97b6c6d6e5e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ce5c88399ab7ae5baf31f4128a050af
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 714e2c3bea7834f41900e22765a0a11a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/MusicGenerator/Resources/Music/ViolinShort/18.mp3
+- Assets/MusicGenerator/Resources/Music/ViolinShort/25.mp3
+- Assets/MusicGenerator/Resources/Music/ViolinShort/31.mp3
+- Assets/MusicGenerator/Resources/Music/ViolinShort/8.mp3
+- Assets/MusicGenerator/Prefabs/ViolinShort.prefab
+- Assets/MusicGenerator/Resources/Music/ViolinShort/5.mp3
+- Assets/MusicGenerator/Resources/Music/ViolinShort/33.mp3
+- Assets/MusicGenerator/Resources/Music/ViolinShort/17.mp3
+- Assets/MusicGenerator/Resources/Music/ViolinShort/14.mp3
+- Assets/MusicGenerator/Resources/Music/ViolinShort/23.mp3
+- Assets/MusicGenerator/Resources/Music/ViolinShort/13.mp3
+- Assets/MusicGenerator/Resources/Music/ViolinShort/30.mp3
+- Assets/MusicGenerator/Resources/Music/ViolinShort/21.mp3
+- Assets/MusicGenerator/Resources/Music/ViolinShort/2.mp3
+- Assets/MusicGenerator/Resources/Music/ViolinShort/28.mp3
+- Assets/MusicGenerator/Resources/Music/ViolinShort/4.mp3
+- Assets/MusicGenerator/Resources/Music/ViolinShort/19.mp3
+- Assets/MusicGenerator/Resources/Music/ViolinShort/22.mp3
+- Assets/MusicGenerator/Resources/Music/ViolinShort/16.mp3
+- Assets/MusicGenerator/Resources/Music/ViolinShort/27.mp3
+- Assets/MusicGenerator/Resources/Music/ViolinShort/32.mp3
+- Assets/MusicGenerator/Resources/Music/ViolinShort/3.mp3
+- Assets/MusicGenerator/Resources/Music/ViolinShort/36.mp3
+- Assets/MusicGenerator/Resources/Music/ViolinShort/34.mp3
+- Assets/MusicGenerator/Resources/Music/ViolinShort/9.mp3
+- Assets/MusicGenerator/Resources/Music/ViolinShort/12.mp3
+- Assets/MusicGenerator/Resources/Music/ViolinShort/26.mp3
+- Assets/MusicGenerator/Resources/Music/ViolinShort/15.mp3
+- Assets/MusicGenerator/Resources/Music/ViolinShort/6.mp3
+- Assets/MusicGenerator/Resources/Music/ViolinShort/10.mp3
+- Assets/MusicGenerator/Resources/Music/ViolinShort/7.mp3
+- Assets/MusicGenerator/Resources/Music/ViolinShort/11.mp3
+- Assets/MusicGenerator/Resources/Music/ViolinShort/20.mp3
+- Assets/MusicGenerator/Resources/Music/ViolinShort/35.mp3
+- Assets/MusicGenerator/Resources/Music/ViolinShort/29.mp3
+- Assets/MusicGenerator/Resources/Music/ViolinShort/24.mp3
+- Assets/MusicGenerator/Resources/Music/ViolinShort/1.mp3
+Dependencies: []

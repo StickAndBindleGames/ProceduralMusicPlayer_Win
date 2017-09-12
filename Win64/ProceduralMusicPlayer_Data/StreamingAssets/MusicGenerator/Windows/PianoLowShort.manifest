@@ -1,0 +1,62 @@
+ManifestFileVersion: 0
+CRC: 2263910964
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c494ad3caa02955025ccfbcfd15fbb3e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ce5c88399ab7ae5baf31f4128a050af
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 714e2c3bea7834f41900e22765a0a11a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/MusicGenerator/Assets/Resources/Music/PianoLowShort/17.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/PianoLowShort/31.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/PianoLowShort/9.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/PianoLowShort/11.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/PianoLowShort/14.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/PianoLowShort/24.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/PianoLowShort/7.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/PianoLowShort/18.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/PianoLowShort/30.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/PianoLowShort/19.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/PianoLowShort/22.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/PianoLowShort/8.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/PianoLowShort/5.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/PianoLowShort/32.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/PianoLowShort/12.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/PianoLowShort/1.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/PianoLowShort/28.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/PianoLowShort/33.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/PianoLowShort/10.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/PianoLowShort/27.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/PianoLowShort/25.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/PianoLowShort/26.mp3
+- Assets/TempMusicPrefabs/PianoLowShort.prefab
+- Assets/MusicGenerator/Assets/Resources/Music/PianoLowShort/6.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/PianoLowShort/23.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/PianoLowShort/2.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/PianoLowShort/15.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/PianoLowShort/3.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/PianoLowShort/4.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/PianoLowShort/13.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/PianoLowShort/34.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/PianoLowShort/36.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/PianoLowShort/29.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/PianoLowShort/20.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/PianoLowShort/16.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/PianoLowShort/21.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/PianoLowShort/35.mp3
+Dependencies: []

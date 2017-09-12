@@ -1,0 +1,62 @@
+ManifestFileVersion: 0
+CRC: 99824734
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7a91349d6670953eaa631cc62fe80387
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ce5c88399ab7ae5baf31f4128a050af
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 714e2c3bea7834f41900e22765a0a11a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/MusicGenerator/Resources/Music/TrumpetLong/18.mp3
+- Assets/MusicGenerator/Resources/Music/TrumpetLong/21.mp3
+- Assets/MusicGenerator/Resources/Music/TrumpetLong/33.mp3
+- Assets/MusicGenerator/Prefabs/TrumpetLong.prefab
+- Assets/MusicGenerator/Resources/Music/TrumpetLong/10.mp3
+- Assets/MusicGenerator/Resources/Music/TrumpetLong/11.mp3
+- Assets/MusicGenerator/Resources/Music/TrumpetLong/26.mp3
+- Assets/MusicGenerator/Resources/Music/TrumpetLong/6.mp3
+- Assets/MusicGenerator/Resources/Music/TrumpetLong/23.mp3
+- Assets/MusicGenerator/Resources/Music/TrumpetLong/15.mp3
+- Assets/MusicGenerator/Resources/Music/TrumpetLong/5.mp3
+- Assets/MusicGenerator/Resources/Music/TrumpetLong/4.mp3
+- Assets/MusicGenerator/Resources/Music/TrumpetLong/20.mp3
+- Assets/MusicGenerator/Resources/Music/TrumpetLong/9.mp3
+- Assets/MusicGenerator/Resources/Music/TrumpetLong/30.mp3
+- Assets/MusicGenerator/Resources/Music/TrumpetLong/13.mp3
+- Assets/MusicGenerator/Resources/Music/TrumpetLong/31.mp3
+- Assets/MusicGenerator/Resources/Music/TrumpetLong/12.mp3
+- Assets/MusicGenerator/Resources/Music/TrumpetLong/25.mp3
+- Assets/MusicGenerator/Resources/Music/TrumpetLong/35.mp3
+- Assets/MusicGenerator/Resources/Music/TrumpetLong/8.mp3
+- Assets/MusicGenerator/Resources/Music/TrumpetLong/34.mp3
+- Assets/MusicGenerator/Resources/Music/TrumpetLong/14.mp3
+- Assets/MusicGenerator/Resources/Music/TrumpetLong/2.mp3
+- Assets/MusicGenerator/Resources/Music/TrumpetLong/16.mp3
+- Assets/MusicGenerator/Resources/Music/TrumpetLong/3.mp3
+- Assets/MusicGenerator/Resources/Music/TrumpetLong/32.mp3
+- Assets/MusicGenerator/Resources/Music/TrumpetLong/19.mp3
+- Assets/MusicGenerator/Resources/Music/TrumpetLong/22.mp3
+- Assets/MusicGenerator/Resources/Music/TrumpetLong/1.mp3
+- Assets/MusicGenerator/Resources/Music/TrumpetLong/17.mp3
+- Assets/MusicGenerator/Resources/Music/TrumpetLong/28.mp3
+- Assets/MusicGenerator/Resources/Music/TrumpetLong/36.mp3
+- Assets/MusicGenerator/Resources/Music/TrumpetLong/27.mp3
+- Assets/MusicGenerator/Resources/Music/TrumpetLong/29.mp3
+- Assets/MusicGenerator/Resources/Music/TrumpetLong/7.mp3
+- Assets/MusicGenerator/Resources/Music/TrumpetLong/24.mp3
+Dependencies: []

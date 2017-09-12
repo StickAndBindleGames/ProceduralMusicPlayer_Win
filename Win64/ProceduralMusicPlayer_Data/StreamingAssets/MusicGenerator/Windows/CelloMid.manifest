@@ -1,0 +1,62 @@
+ManifestFileVersion: 0
+CRC: 2035462553
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 66f3d9eaa0e9934a3a821f6ca0daf57d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ce5c88399ab7ae5baf31f4128a050af
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 714e2c3bea7834f41900e22765a0a11a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/MusicGenerator/Assets/Resources/Music/CelloMid/11.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/CelloMid/16.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/CelloMid/27.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/CelloMid/28.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/CelloMid/25.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/CelloMid/7.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/CelloMid/20.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/CelloMid/29.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/CelloMid/15.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/CelloMid/35.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/CelloMid/23.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/CelloMid/2.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/CelloMid/12.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/CelloMid/8.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/CelloMid/4.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/CelloMid/18.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/CelloMid/1.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/CelloMid/36.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/CelloMid/3.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/CelloMid/10.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/CelloMid/17.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/CelloMid/30.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/CelloMid/22.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/CelloMid/34.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/CelloMid/6.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/CelloMid/26.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/CelloMid/9.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/CelloMid/33.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/CelloMid/24.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/CelloMid/19.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/CelloMid/32.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/CelloMid/13.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/CelloMid/5.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/CelloMid/21.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/CelloMid/14.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/CelloMid/31.mp3
+- Assets/TempMusicPrefabs/CelloMid.prefab
+Dependencies: []

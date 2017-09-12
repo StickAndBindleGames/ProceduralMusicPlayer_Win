@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 4191804204
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: P_SleighbellV2
+      Dependencies: {}
+    Info_1:
+      Name: P_TamTam
+      Dependencies: {}

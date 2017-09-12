@@ -1,0 +1,62 @@
+ManifestFileVersion: 0
+CRC: 1606542085
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2afbd84288e903ff677f5fec451e086c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ce5c88399ab7ae5baf31f4128a050af
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 714e2c3bea7834f41900e22765a0a11a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/MusicGenerator/Assets/Resources/Music/PianoHighLongV2/23.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/PianoHighLongV2/29.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/PianoHighLongV2/16.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/PianoHighLongV2/14.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/PianoHighLongV2/26.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/PianoHighLongV2/27.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/PianoHighLongV2/20.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/PianoHighLongV2/34.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/PianoHighLongV2/30.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/PianoHighLongV2/24.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/PianoHighLongV2/19.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/PianoHighLongV2/2.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/PianoHighLongV2/6.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/PianoHighLongV2/31.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/PianoHighLongV2/28.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/PianoHighLongV2/12.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/PianoHighLongV2/1.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/PianoHighLongV2/25.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/PianoHighLongV2/22.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/PianoHighLongV2/5.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/PianoHighLongV2/3.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/PianoHighLongV2/4.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/PianoHighLongV2/32.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/PianoHighLongV2/35.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/PianoHighLongV2/33.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/PianoHighLongV2/13.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/PianoHighLongV2/8.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/PianoHighLongV2/10.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/PianoHighLongV2/17.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/PianoHighLongV2/15.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/PianoHighLongV2/21.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/PianoHighLongV2/9.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/PianoHighLongV2/18.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/PianoHighLongV2/36.mp3
+- Assets/TempMusicPrefabs/PianoHighLongV2.prefab
+- Assets/MusicGenerator/Assets/Resources/Music/PianoHighLongV2/7.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/PianoHighLongV2/11.mp3
+Dependencies: []

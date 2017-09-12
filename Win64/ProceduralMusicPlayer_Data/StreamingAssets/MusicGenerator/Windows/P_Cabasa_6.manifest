@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2956491293
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: df1afadb25457946df6c3b4baacc017f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ce5c88399ab7ae5baf31f4128a050af
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 714e2c3bea7834f41900e22765a0a11a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/MusicGenerator/Prefabs/P_Cabasa_6.prefab
+- Assets/MusicGenerator/Resources/Music/P_Cabasa_6/1.mp3
+Dependencies: []

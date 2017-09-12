@@ -1,0 +1,62 @@
+ManifestFileVersion: 0
+CRC: 3488784787
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3a0d212423b12df8a9a1defe9f4afdd1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ce5c88399ab7ae5baf31f4128a050af
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 714e2c3bea7834f41900e22765a0a11a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/MusicGenerator/Assets/Resources/Music/BassoonShortV2/9.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/BassoonShortV2/11.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/BassoonShortV2/3.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/BassoonShortV2/30.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/BassoonShortV2/2.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/BassoonShortV2/28.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/BassoonShortV2/16.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/BassoonShortV2/7.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/BassoonShortV2/35.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/BassoonShortV2/25.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/BassoonShortV2/31.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/BassoonShortV2/13.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/BassoonShortV2/20.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/BassoonShortV2/22.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/BassoonShortV2/1.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/BassoonShortV2/6.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/BassoonShortV2/21.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/BassoonShortV2/32.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/BassoonShortV2/17.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/BassoonShortV2/12.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/BassoonShortV2/29.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/BassoonShortV2/14.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/BassoonShortV2/8.mp3
+- Assets/TempMusicPrefabs/BassoonShortV2.prefab
+- Assets/MusicGenerator/Assets/Resources/Music/BassoonShortV2/5.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/BassoonShortV2/18.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/BassoonShortV2/10.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/BassoonShortV2/34.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/BassoonShortV2/33.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/BassoonShortV2/15.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/BassoonShortV2/4.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/BassoonShortV2/36.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/BassoonShortV2/19.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/BassoonShortV2/26.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/BassoonShortV2/23.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/BassoonShortV2/24.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/BassoonShortV2/27.mp3
+Dependencies: []

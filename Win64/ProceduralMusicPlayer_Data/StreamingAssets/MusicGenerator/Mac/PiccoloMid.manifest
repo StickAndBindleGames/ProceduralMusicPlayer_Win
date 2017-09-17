@@ -1,0 +1,62 @@
+ManifestFileVersion: 0
+CRC: 2565441413
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b2e6f3d5cd286d3dc889ad175eb23e6d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ce5c88399ab7ae5baf31f4128a050af
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 714e2c3bea7834f41900e22765a0a11a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/MusicGenerator/Assets/Resources/Music/PiccoloMid/29.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/PiccoloMid/9.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/PiccoloMid/15.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/PiccoloMid/5.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/PiccoloMid/20.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/PiccoloMid/3.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/PiccoloMid/36.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/PiccoloMid/16.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/PiccoloMid/13.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/PiccoloMid/11.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/PiccoloMid/1.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/PiccoloMid/12.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/PiccoloMid/2.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/PiccoloMid/21.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/PiccoloMid/7.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/PiccoloMid/26.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/PiccoloMid/27.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/PiccoloMid/32.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/PiccoloMid/30.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/PiccoloMid/6.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/PiccoloMid/14.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/PiccoloMid/33.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/PiccoloMid/8.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/PiccoloMid/34.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/PiccoloMid/22.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/PiccoloMid/19.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/PiccoloMid/17.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/PiccoloMid/31.mp3
+- Assets/TempMusicPrefabs/PiccoloMid.prefab
+- Assets/MusicGenerator/Assets/Resources/Music/PiccoloMid/23.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/PiccoloMid/4.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/PiccoloMid/25.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/PiccoloMid/10.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/PiccoloMid/28.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/PiccoloMid/18.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/PiccoloMid/35.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/PiccoloMid/24.mp3
+Dependencies: []

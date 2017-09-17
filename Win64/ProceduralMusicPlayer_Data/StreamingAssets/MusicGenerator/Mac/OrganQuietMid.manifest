@@ -1,0 +1,62 @@
+ManifestFileVersion: 0
+CRC: 2075553422
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: be5f9aa5b50605236a0652994b5723f6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ce5c88399ab7ae5baf31f4128a050af
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 714e2c3bea7834f41900e22765a0a11a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/MusicGenerator/Assets/Resources/Music/OrganQuietMid/17.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/OrganQuietMid/7.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/OrganQuietMid/20.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/OrganQuietMid/27.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/OrganQuietMid/31.mp3
+- Assets/MusicGenerator/TempPrefabs/OrganQuietMid.prefab
+- Assets/MusicGenerator/Assets/Resources/Music/OrganQuietMid/9.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/OrganQuietMid/2.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/OrganQuietMid/10.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/OrganQuietMid/6.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/OrganQuietMid/25.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/OrganQuietMid/15.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/OrganQuietMid/29.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/OrganQuietMid/23.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/OrganQuietMid/26.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/OrganQuietMid/14.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/OrganQuietMid/34.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/OrganQuietMid/18.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/OrganQuietMid/4.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/OrganQuietMid/30.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/OrganQuietMid/28.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/OrganQuietMid/1.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/OrganQuietMid/24.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/OrganQuietMid/33.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/OrganQuietMid/16.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/OrganQuietMid/35.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/OrganQuietMid/32.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/OrganQuietMid/8.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/OrganQuietMid/22.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/OrganQuietMid/5.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/OrganQuietMid/36.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/OrganQuietMid/13.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/OrganQuietMid/19.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/OrganQuietMid/21.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/OrganQuietMid/3.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/OrganQuietMid/11.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/OrganQuietMid/12.mp3
+Dependencies: []

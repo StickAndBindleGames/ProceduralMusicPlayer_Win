@@ -1,0 +1,62 @@
+ManifestFileVersion: 0
+CRC: 3962728485
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a741b2fd93899682129b4203a71f5b53
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ce5c88399ab7ae5baf31f4128a050af
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 714e2c3bea7834f41900e22765a0a11a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/MusicGenerator/Assets/Resources/Music/ViolaShortV2/8.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ViolaShortV2/24.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ViolaShortV2/20.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ViolaShortV2/33.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ViolaShortV2/30.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ViolaShortV2/16.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ViolaShortV2/35.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ViolaShortV2/5.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ViolaShortV2/9.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ViolaShortV2/1.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ViolaShortV2/12.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ViolaShortV2/25.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ViolaShortV2/26.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ViolaShortV2/7.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ViolaShortV2/34.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ViolaShortV2/29.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ViolaShortV2/4.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ViolaShortV2/22.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ViolaShortV2/32.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ViolaShortV2/27.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ViolaShortV2/3.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ViolaShortV2/11.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ViolaShortV2/2.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ViolaShortV2/17.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ViolaShortV2/13.mp3
+- Assets/TempMusicPrefabs/ViolaShortV2.prefab
+- Assets/MusicGenerator/Assets/Resources/Music/ViolaShortV2/15.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ViolaShortV2/31.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ViolaShortV2/21.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ViolaShortV2/36.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ViolaShortV2/19.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ViolaShortV2/14.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ViolaShortV2/10.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ViolaShortV2/28.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ViolaShortV2/18.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ViolaShortV2/6.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ViolaShortV2/23.mp3
+Dependencies: []

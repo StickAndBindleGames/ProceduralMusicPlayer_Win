@@ -1,0 +1,62 @@
+ManifestFileVersion: 0
+CRC: 2725718303
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d21516cbb58526aa9f2e7c4656fb3481
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ce5c88399ab7ae5baf31f4128a050af
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 714e2c3bea7834f41900e22765a0a11a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/MusicGenerator/Resources/Music/TromboneLong/10.mp3
+- Assets/MusicGenerator/Resources/Music/TromboneLong/24.mp3
+- Assets/MusicGenerator/Resources/Music/TromboneLong/8.mp3
+- Assets/MusicGenerator/Resources/Music/TromboneLong/6.mp3
+- Assets/MusicGenerator/Resources/Music/TromboneLong/20.mp3
+- Assets/MusicGenerator/Prefabs/TromboneLong.prefab
+- Assets/MusicGenerator/Resources/Music/TromboneLong/4.mp3
+- Assets/MusicGenerator/Resources/Music/TromboneLong/15.mp3
+- Assets/MusicGenerator/Resources/Music/TromboneLong/14.mp3
+- Assets/MusicGenerator/Resources/Music/TromboneLong/31.mp3
+- Assets/MusicGenerator/Resources/Music/TromboneLong/26.mp3
+- Assets/MusicGenerator/Resources/Music/TromboneLong/32.mp3
+- Assets/MusicGenerator/Resources/Music/TromboneLong/16.mp3
+- Assets/MusicGenerator/Resources/Music/TromboneLong/11.mp3
+- Assets/MusicGenerator/Resources/Music/TromboneLong/17.mp3
+- Assets/MusicGenerator/Resources/Music/TromboneLong/9.mp3
+- Assets/MusicGenerator/Resources/Music/TromboneLong/21.mp3
+- Assets/MusicGenerator/Resources/Music/TromboneLong/36.mp3
+- Assets/MusicGenerator/Resources/Music/TromboneLong/30.mp3
+- Assets/MusicGenerator/Resources/Music/TromboneLong/12.mp3
+- Assets/MusicGenerator/Resources/Music/TromboneLong/22.mp3
+- Assets/MusicGenerator/Resources/Music/TromboneLong/7.mp3
+- Assets/MusicGenerator/Resources/Music/TromboneLong/25.mp3
+- Assets/MusicGenerator/Resources/Music/TromboneLong/2.mp3
+- Assets/MusicGenerator/Resources/Music/TromboneLong/5.mp3
+- Assets/MusicGenerator/Resources/Music/TromboneLong/35.mp3
+- Assets/MusicGenerator/Resources/Music/TromboneLong/27.mp3
+- Assets/MusicGenerator/Resources/Music/TromboneLong/23.mp3
+- Assets/MusicGenerator/Resources/Music/TromboneLong/34.mp3
+- Assets/MusicGenerator/Resources/Music/TromboneLong/28.mp3
+- Assets/MusicGenerator/Resources/Music/TromboneLong/33.mp3
+- Assets/MusicGenerator/Resources/Music/TromboneLong/1.mp3
+- Assets/MusicGenerator/Resources/Music/TromboneLong/13.mp3
+- Assets/MusicGenerator/Resources/Music/TromboneLong/29.mp3
+- Assets/MusicGenerator/Resources/Music/TromboneLong/19.mp3
+- Assets/MusicGenerator/Resources/Music/TromboneLong/3.mp3
+- Assets/MusicGenerator/Resources/Music/TromboneLong/18.mp3
+Dependencies: []

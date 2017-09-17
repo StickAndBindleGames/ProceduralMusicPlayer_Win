@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3318015934
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 090ed311c0ce7a1e9cd6ad1ec4367f50
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ce5c88399ab7ae5baf31f4128a050af
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 714e2c3bea7834f41900e22765a0a11a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/MusicGenerator/Resources/Music/P_CymbalHitMetal_2/1.mp3
+- Assets/MusicGenerator/Prefabs/P_CymbalHitMetal_2.prefab
+Dependencies: []

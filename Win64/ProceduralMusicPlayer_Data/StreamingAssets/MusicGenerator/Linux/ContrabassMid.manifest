@@ -1,0 +1,62 @@
+ManifestFileVersion: 0
+CRC: 3018987626
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5802f2dff2d1dcc7e8c45761c3c29fda
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ce5c88399ab7ae5baf31f4128a050af
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 714e2c3bea7834f41900e22765a0a11a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/MusicGenerator/Assets/Resources/Music/ContrabassMid/33.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ContrabassMid/19.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ContrabassMid/24.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ContrabassMid/12.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ContrabassMid/35.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ContrabassMid/20.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ContrabassMid/8.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ContrabassMid/16.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ContrabassMid/7.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ContrabassMid/3.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ContrabassMid/4.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ContrabassMid/26.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ContrabassMid/18.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ContrabassMid/17.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ContrabassMid/6.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ContrabassMid/5.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ContrabassMid/2.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ContrabassMid/11.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ContrabassMid/30.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ContrabassMid/34.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ContrabassMid/31.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ContrabassMid/32.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ContrabassMid/28.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ContrabassMid/13.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ContrabassMid/15.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ContrabassMid/27.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ContrabassMid/23.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ContrabassMid/36.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ContrabassMid/14.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ContrabassMid/22.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ContrabassMid/25.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ContrabassMid/21.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ContrabassMid/9.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ContrabassMid/29.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ContrabassMid/10.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ContrabassMid/1.mp3
+- Assets/TempMusicPrefabs/ContrabassMid.prefab
+Dependencies: []

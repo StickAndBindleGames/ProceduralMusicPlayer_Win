@@ -1,0 +1,62 @@
+ManifestFileVersion: 0
+CRC: 1779174375
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d8bec1e4574c8b8023078ff7891d086b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ce5c88399ab7ae5baf31f4128a050af
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 714e2c3bea7834f41900e22765a0a11a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/MusicGenerator/Resources/Music/TrumpetShort/2.mp3
+- Assets/MusicGenerator/Resources/Music/TrumpetShort/12.mp3
+- Assets/MusicGenerator/Resources/Music/TrumpetShort/15.mp3
+- Assets/MusicGenerator/Resources/Music/TrumpetShort/31.mp3
+- Assets/MusicGenerator/Resources/Music/TrumpetShort/24.mp3
+- Assets/MusicGenerator/Resources/Music/TrumpetShort/33.mp3
+- Assets/MusicGenerator/Resources/Music/TrumpetShort/26.mp3
+- Assets/MusicGenerator/Resources/Music/TrumpetShort/10.mp3
+- Assets/MusicGenerator/Resources/Music/TrumpetShort/36.mp3
+- Assets/MusicGenerator/Resources/Music/TrumpetShort/1.mp3
+- Assets/MusicGenerator/Resources/Music/TrumpetShort/23.mp3
+- Assets/MusicGenerator/Resources/Music/TrumpetShort/34.mp3
+- Assets/MusicGenerator/Prefabs/TrumpetShort.prefab
+- Assets/MusicGenerator/Resources/Music/TrumpetShort/3.mp3
+- Assets/MusicGenerator/Resources/Music/TrumpetShort/5.mp3
+- Assets/MusicGenerator/Resources/Music/TrumpetShort/32.mp3
+- Assets/MusicGenerator/Resources/Music/TrumpetShort/6.mp3
+- Assets/MusicGenerator/Resources/Music/TrumpetShort/18.mp3
+- Assets/MusicGenerator/Resources/Music/TrumpetShort/16.mp3
+- Assets/MusicGenerator/Resources/Music/TrumpetShort/7.mp3
+- Assets/MusicGenerator/Resources/Music/TrumpetShort/8.mp3
+- Assets/MusicGenerator/Resources/Music/TrumpetShort/9.mp3
+- Assets/MusicGenerator/Resources/Music/TrumpetShort/14.mp3
+- Assets/MusicGenerator/Resources/Music/TrumpetShort/27.mp3
+- Assets/MusicGenerator/Resources/Music/TrumpetShort/4.mp3
+- Assets/MusicGenerator/Resources/Music/TrumpetShort/17.mp3
+- Assets/MusicGenerator/Resources/Music/TrumpetShort/30.mp3
+- Assets/MusicGenerator/Resources/Music/TrumpetShort/35.mp3
+- Assets/MusicGenerator/Resources/Music/TrumpetShort/11.mp3
+- Assets/MusicGenerator/Resources/Music/TrumpetShort/19.mp3
+- Assets/MusicGenerator/Resources/Music/TrumpetShort/21.mp3
+- Assets/MusicGenerator/Resources/Music/TrumpetShort/29.mp3
+- Assets/MusicGenerator/Resources/Music/TrumpetShort/22.mp3
+- Assets/MusicGenerator/Resources/Music/TrumpetShort/28.mp3
+- Assets/MusicGenerator/Resources/Music/TrumpetShort/13.mp3
+- Assets/MusicGenerator/Resources/Music/TrumpetShort/25.mp3
+- Assets/MusicGenerator/Resources/Music/TrumpetShort/20.mp3
+Dependencies: []

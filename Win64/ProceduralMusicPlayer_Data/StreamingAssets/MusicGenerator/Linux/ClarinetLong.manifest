@@ -1,0 +1,62 @@
+ManifestFileVersion: 0
+CRC: 2743047994
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 38f9e0643725c5043911fa6f12f11d5d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ce5c88399ab7ae5baf31f4128a050af
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 714e2c3bea7834f41900e22765a0a11a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/MusicGenerator/Resources/Music/ClarinetLong/6.mp3
+- Assets/MusicGenerator/Resources/Music/ClarinetLong/28.mp3
+- Assets/MusicGenerator/Prefabs/ClarinetLong.prefab
+- Assets/MusicGenerator/Resources/Music/ClarinetLong/25.mp3
+- Assets/MusicGenerator/Resources/Music/ClarinetLong/19.mp3
+- Assets/MusicGenerator/Resources/Music/ClarinetLong/15.mp3
+- Assets/MusicGenerator/Resources/Music/ClarinetLong/33.mp3
+- Assets/MusicGenerator/Resources/Music/ClarinetLong/14.mp3
+- Assets/MusicGenerator/Resources/Music/ClarinetLong/17.mp3
+- Assets/MusicGenerator/Resources/Music/ClarinetLong/29.mp3
+- Assets/MusicGenerator/Resources/Music/ClarinetLong/20.mp3
+- Assets/MusicGenerator/Resources/Music/ClarinetLong/7.mp3
+- Assets/MusicGenerator/Resources/Music/ClarinetLong/30.mp3
+- Assets/MusicGenerator/Resources/Music/ClarinetLong/13.mp3
+- Assets/MusicGenerator/Resources/Music/ClarinetLong/9.mp3
+- Assets/MusicGenerator/Resources/Music/ClarinetLong/12.mp3
+- Assets/MusicGenerator/Resources/Music/ClarinetLong/22.mp3
+- Assets/MusicGenerator/Resources/Music/ClarinetLong/31.mp3
+- Assets/MusicGenerator/Resources/Music/ClarinetLong/32.mp3
+- Assets/MusicGenerator/Resources/Music/ClarinetLong/21.mp3
+- Assets/MusicGenerator/Resources/Music/ClarinetLong/24.mp3
+- Assets/MusicGenerator/Resources/Music/ClarinetLong/3.mp3
+- Assets/MusicGenerator/Resources/Music/ClarinetLong/5.mp3
+- Assets/MusicGenerator/Resources/Music/ClarinetLong/10.mp3
+- Assets/MusicGenerator/Resources/Music/ClarinetLong/35.mp3
+- Assets/MusicGenerator/Resources/Music/ClarinetLong/27.mp3
+- Assets/MusicGenerator/Resources/Music/ClarinetLong/36.mp3
+- Assets/MusicGenerator/Resources/Music/ClarinetLong/1.mp3
+- Assets/MusicGenerator/Resources/Music/ClarinetLong/23.mp3
+- Assets/MusicGenerator/Resources/Music/ClarinetLong/16.mp3
+- Assets/MusicGenerator/Resources/Music/ClarinetLong/18.mp3
+- Assets/MusicGenerator/Resources/Music/ClarinetLong/26.mp3
+- Assets/MusicGenerator/Resources/Music/ClarinetLong/34.mp3
+- Assets/MusicGenerator/Resources/Music/ClarinetLong/4.mp3
+- Assets/MusicGenerator/Resources/Music/ClarinetLong/11.mp3
+- Assets/MusicGenerator/Resources/Music/ClarinetLong/2.mp3
+- Assets/MusicGenerator/Resources/Music/ClarinetLong/8.mp3
+Dependencies: []

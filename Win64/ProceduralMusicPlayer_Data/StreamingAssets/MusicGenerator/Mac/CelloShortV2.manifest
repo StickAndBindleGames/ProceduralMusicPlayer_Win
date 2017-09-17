@@ -1,0 +1,62 @@
+ManifestFileVersion: 0
+CRC: 1971675857
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e0ca45307773864533d6da2ddbe1051f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ce5c88399ab7ae5baf31f4128a050af
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 714e2c3bea7834f41900e22765a0a11a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/MusicGenerator/Assets/Resources/Music/CelloShortV2/3.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/CelloShortV2/20.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/CelloShortV2/32.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/CelloShortV2/28.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/CelloShortV2/11.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/CelloShortV2/21.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/CelloShortV2/16.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/CelloShortV2/31.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/CelloShortV2/1.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/CelloShortV2/7.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/CelloShortV2/25.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/CelloShortV2/14.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/CelloShortV2/23.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/CelloShortV2/6.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/CelloShortV2/22.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/CelloShortV2/5.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/CelloShortV2/30.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/CelloShortV2/18.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/CelloShortV2/13.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/CelloShortV2/29.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/CelloShortV2/36.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/CelloShortV2/8.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/CelloShortV2/24.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/CelloShortV2/19.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/CelloShortV2/4.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/CelloShortV2/12.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/CelloShortV2/10.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/CelloShortV2/27.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/CelloShortV2/9.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/CelloShortV2/26.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/CelloShortV2/35.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/CelloShortV2/34.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/CelloShortV2/15.mp3
+- Assets/TempMusicPrefabs/CelloShortV2.prefab
+- Assets/MusicGenerator/Assets/Resources/Music/CelloShortV2/2.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/CelloShortV2/17.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/CelloShortV2/33.mp3
+Dependencies: []

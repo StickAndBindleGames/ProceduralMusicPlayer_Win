@@ -1,0 +1,62 @@
+ManifestFileVersion: 0
+CRC: 1559804513
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 60ce52cbea4f421a7c7733d19cd6b6b3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ce5c88399ab7ae5baf31f4128a050af
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 714e2c3bea7834f41900e22765a0a11a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/MusicGenerator/Assets/Resources/Music/BassoonMid/14.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/BassoonMid/33.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/BassoonMid/36.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/BassoonMid/7.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/BassoonMid/27.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/BassoonMid/12.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/BassoonMid/23.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/BassoonMid/31.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/BassoonMid/22.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/BassoonMid/19.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/BassoonMid/4.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/BassoonMid/10.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/BassoonMid/29.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/BassoonMid/11.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/BassoonMid/16.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/BassoonMid/3.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/BassoonMid/17.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/BassoonMid/6.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/BassoonMid/30.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/BassoonMid/8.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/BassoonMid/1.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/BassoonMid/21.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/BassoonMid/5.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/BassoonMid/18.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/BassoonMid/24.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/BassoonMid/9.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/BassoonMid/32.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/BassoonMid/28.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/BassoonMid/15.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/BassoonMid/20.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/BassoonMid/34.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/BassoonMid/26.mp3
+- Assets/TempMusicPrefabs/BassoonMid.prefab
+- Assets/MusicGenerator/Assets/Resources/Music/BassoonMid/25.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/BassoonMid/2.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/BassoonMid/35.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/BassoonMid/13.mp3
+Dependencies: []

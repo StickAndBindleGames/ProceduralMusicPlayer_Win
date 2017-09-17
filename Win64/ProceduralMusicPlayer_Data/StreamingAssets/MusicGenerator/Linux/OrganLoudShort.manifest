@@ -1,0 +1,62 @@
+ManifestFileVersion: 0
+CRC: 463730671
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: deca6d48a79013869071b8eb89f43ca3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ce5c88399ab7ae5baf31f4128a050af
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 714e2c3bea7834f41900e22765a0a11a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/MusicGenerator/Resources/Music/OrganLoudShort/26.mp3
+- Assets/MusicGenerator/Resources/Music/OrganLoudShort/21.mp3
+- Assets/MusicGenerator/Resources/Music/OrganLoudShort/12.mp3
+- Assets/MusicGenerator/Resources/Music/OrganLoudShort/22.mp3
+- Assets/MusicGenerator/Prefabs/OrganLoudShort.prefab
+- Assets/MusicGenerator/Resources/Music/OrganLoudShort/7.mp3
+- Assets/MusicGenerator/Resources/Music/OrganLoudShort/25.mp3
+- Assets/MusicGenerator/Resources/Music/OrganLoudShort/3.mp3
+- Assets/MusicGenerator/Resources/Music/OrganLoudShort/10.mp3
+- Assets/MusicGenerator/Resources/Music/OrganLoudShort/18.mp3
+- Assets/MusicGenerator/Resources/Music/OrganLoudShort/9.mp3
+- Assets/MusicGenerator/Resources/Music/OrganLoudShort/2.mp3
+- Assets/MusicGenerator/Resources/Music/OrganLoudShort/17.mp3
+- Assets/MusicGenerator/Resources/Music/OrganLoudShort/24.mp3
+- Assets/MusicGenerator/Resources/Music/OrganLoudShort/33.mp3
+- Assets/MusicGenerator/Resources/Music/OrganLoudShort/6.mp3
+- Assets/MusicGenerator/Resources/Music/OrganLoudShort/29.mp3
+- Assets/MusicGenerator/Resources/Music/OrganLoudShort/13.mp3
+- Assets/MusicGenerator/Resources/Music/OrganLoudShort/4.mp3
+- Assets/MusicGenerator/Resources/Music/OrganLoudShort/30.mp3
+- Assets/MusicGenerator/Resources/Music/OrganLoudShort/16.mp3
+- Assets/MusicGenerator/Resources/Music/OrganLoudShort/35.mp3
+- Assets/MusicGenerator/Resources/Music/OrganLoudShort/34.mp3
+- Assets/MusicGenerator/Resources/Music/OrganLoudShort/19.mp3
+- Assets/MusicGenerator/Resources/Music/OrganLoudShort/5.mp3
+- Assets/MusicGenerator/Resources/Music/OrganLoudShort/32.mp3
+- Assets/MusicGenerator/Resources/Music/OrganLoudShort/28.mp3
+- Assets/MusicGenerator/Resources/Music/OrganLoudShort/20.mp3
+- Assets/MusicGenerator/Resources/Music/OrganLoudShort/27.mp3
+- Assets/MusicGenerator/Resources/Music/OrganLoudShort/1.mp3
+- Assets/MusicGenerator/Resources/Music/OrganLoudShort/15.mp3
+- Assets/MusicGenerator/Resources/Music/OrganLoudShort/14.mp3
+- Assets/MusicGenerator/Resources/Music/OrganLoudShort/8.mp3
+- Assets/MusicGenerator/Resources/Music/OrganLoudShort/31.mp3
+- Assets/MusicGenerator/Resources/Music/OrganLoudShort/36.mp3
+- Assets/MusicGenerator/Resources/Music/OrganLoudShort/23.mp3
+- Assets/MusicGenerator/Resources/Music/OrganLoudShort/11.mp3
+Dependencies: []

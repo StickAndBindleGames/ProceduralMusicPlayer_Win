@@ -1,0 +1,62 @@
+ManifestFileVersion: 0
+CRC: 305048142
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cfe078c9aa814850db203044a53f2eb2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ce5c88399ab7ae5baf31f4128a050af
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 714e2c3bea7834f41900e22765a0a11a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/MusicGenerator/Assets/Resources/Music/ViolinMid/3.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ViolinMid/35.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ViolinMid/27.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ViolinMid/4.mp3
+- Assets/TempMusicPrefabs/ViolinMid.prefab
+- Assets/MusicGenerator/Assets/Resources/Music/ViolinMid/13.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ViolinMid/19.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ViolinMid/10.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ViolinMid/36.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ViolinMid/23.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ViolinMid/34.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ViolinMid/20.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ViolinMid/28.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ViolinMid/1.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ViolinMid/6.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ViolinMid/8.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ViolinMid/2.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ViolinMid/9.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ViolinMid/24.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ViolinMid/5.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ViolinMid/32.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ViolinMid/18.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ViolinMid/26.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ViolinMid/16.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ViolinMid/33.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ViolinMid/29.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ViolinMid/17.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ViolinMid/12.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ViolinMid/30.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ViolinMid/15.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ViolinMid/25.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ViolinMid/22.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ViolinMid/11.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ViolinMid/14.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ViolinMid/31.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ViolinMid/21.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/ViolinMid/7.mp3
+Dependencies: []

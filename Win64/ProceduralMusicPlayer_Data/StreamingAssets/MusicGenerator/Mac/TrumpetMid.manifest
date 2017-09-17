@@ -1,0 +1,62 @@
+ManifestFileVersion: 0
+CRC: 2768789545
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6370ecc541c38912837c040aa32b598d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ce5c88399ab7ae5baf31f4128a050af
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 714e2c3bea7834f41900e22765a0a11a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/MusicGenerator/Assets/Resources/Music/TrumpetMid/30.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/TrumpetMid/19.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/TrumpetMid/9.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/TrumpetMid/35.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/TrumpetMid/11.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/TrumpetMid/3.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/TrumpetMid/36.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/TrumpetMid/25.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/TrumpetMid/26.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/TrumpetMid/17.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/TrumpetMid/20.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/TrumpetMid/15.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/TrumpetMid/12.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/TrumpetMid/23.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/TrumpetMid/14.mp3
+- Assets/TempMusicPrefabs/TrumpetMid.prefab
+- Assets/MusicGenerator/Assets/Resources/Music/TrumpetMid/5.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/TrumpetMid/21.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/TrumpetMid/1.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/TrumpetMid/33.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/TrumpetMid/8.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/TrumpetMid/7.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/TrumpetMid/13.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/TrumpetMid/34.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/TrumpetMid/18.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/TrumpetMid/10.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/TrumpetMid/24.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/TrumpetMid/32.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/TrumpetMid/31.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/TrumpetMid/6.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/TrumpetMid/27.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/TrumpetMid/29.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/TrumpetMid/22.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/TrumpetMid/2.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/TrumpetMid/4.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/TrumpetMid/16.mp3
+- Assets/MusicGenerator/Assets/Resources/Music/TrumpetMid/28.mp3
+Dependencies: []

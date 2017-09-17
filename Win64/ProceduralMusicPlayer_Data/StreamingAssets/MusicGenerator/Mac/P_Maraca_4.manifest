@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3461199421
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 99c71b4d367b2ac3273fc5de7a02d0d0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ce5c88399ab7ae5baf31f4128a050af
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 714e2c3bea7834f41900e22765a0a11a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/MusicGenerator/Prefabs/P_Maraca_4.prefab
+- Assets/MusicGenerator/Resources/Music/P_Maraca_4/1.mp3
+Dependencies: []

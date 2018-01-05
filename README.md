@@ -3,7 +3,8 @@
 <iframe width="854" height="480" src="https://www.youtube.com/embed/kDLc6GFdZTk" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 
-## A procedural music generator that allows you to create configurations to generate and edit music in real-time for your  game. 
+## 
+##A procedural music generator that allows you to create configurations to generate and edit music in real-time for your  game. 
 
 **Features:**
 - Over 100+ instruments and percussion to choose from.
@@ -24,10 +25,10 @@
 ### Please download the editor to see if it will suit your needs (while I think it's a fine generator, it's by no means a 1-1 replacement for custom music by a composer). The downloads below will allow you to create and play configurations but does not support incorporating those configurations into your game or app. For the full generator please visit the unity asset store page [here](https://www.assetstore.unity3d.com/#!/content/99791)
 
 ### Linux:
-[Download for Linux](https://github.com/StickAndBindleGames/ProceduralMusicPlayer_Linux)
+[Linux Demo](https://github.com/StickAndBindleGames/ProceduralMusicPlayer_Linux)
 
 ### Mac:
-[Download for Mac](https://github.com/StickAndBindleGames/ProceduralMusicPlayer_Mac)
+[Mac Demo](https://github.com/StickAndBindleGames/ProceduralMusicPlayer_Mac)
 
 ### Windows:
-[Download for Windows](https://github.com/StickAndBindleGames/ProceduralMusicPlayer_Win)
+[Windows Demo](https://github.com/StickAndBindleGames/ProceduralMusicPlayer_Win)

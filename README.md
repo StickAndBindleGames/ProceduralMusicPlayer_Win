@@ -1,6 +1,6 @@
 ![Logo](https://raw.githubusercontent.com/StickAndBindleGames/stickandbindlegames.github.io/master/Images/%20Logo.png)
 
-<iframe width="650" height="366" src="https://www.youtube.com/embed/kDLc6GFdZTk" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/kDLc6GFdZTk" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 ##A procedural music generator that allows you to create configurations to generate and edit music in real-time for your  game. 
 
@@ -36,7 +36,7 @@
 
 
 ## Feature and Preset examples:
-<iframe width="854" height="480" src="https://www.youtube.com/embed/dcVjY5rkUqU" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/dcVjY5rkUqU" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/TGQM11iRRUQ" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/2g6EuwNqHok?ecver=1" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/P3BNIbOhSfU" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>

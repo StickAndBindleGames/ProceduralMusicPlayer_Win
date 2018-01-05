@@ -20,7 +20,10 @@
 - The perfect solution for quick and custom game jam music!
 
 ## Demo:
-### Please download the editor to see if it will suit your needs (while I think it's a fine generator, it's by no means a 1-1 replacement for custom music by a composer). The downloads below will allow you to create and play configurations but does not support incorporating those configurations into your game or app. For the full generator please visit the unity asset store page [here](https://www.assetstore.unity3d.com/#!/content/99791)
+### Please download the editor to see if it will suit your needs (while I think it's a fine generator, it's by no means a 1-1 replacement for custom music by a composer). The downloads below will allow you to create and play configurations but does not support incorporating those configurations into your game or app. 
+
+### Full Generator Editor:
+[Unity Asset Store](https://www.assetstore.unity3d.com/#!/content/99791)
 
 ### Linux:
 [Linux Demo](https://github.com/StickAndBindleGames/ProceduralMusicPlayer_Linux)
@@ -30,3 +33,10 @@
 
 ### Windows:
 [Windows Demo](https://github.com/StickAndBindleGames/ProceduralMusicPlayer_Win)
+
+
+## Feature and Preset examples:
+<iframe width="854" height="480" src="https://www.youtube.com/embed/dcVjY5rkUqU" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/TGQM11iRRUQ" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/2g6EuwNqHok?ecver=1" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/P3BNIbOhSfU" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>

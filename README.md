@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+![Logo](https://raw.githubusercontent.com/StickAndBindleGames/stickandbindlegames.github.io/master/Images/%20Logo.png)
 
-You can use the [editor on GitHub](https://github.com/StickAndBindleGames/ProceduralMusicPlayer_Win/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## A procedural music generator that allows you to create configurations to play and edit music that's generated in real-time for your  game. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Features:**
+- Over 100+ instruments and percussion to choose from.
 
-### Markdown
+- UI Editor included to create configurations with base settings and instruments.  Export configurations to load and edit via scripting in your project.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Control the tempo, key, mode, scale, dynamics, effects, and dozens of other settings to customize the music to your scene and adapt to your gameplay in real-time. 
 
-```markdown
-Syntax highlighted code block
+- Pre-make and save specific clips to play as SFX at any time.
 
-# Header 1
-## Header 2
-### Header 3
+- Import custom instrument samples.
 
-- Bulleted
-- List
+- Edit instrument or global audio effects
 
-1. Numbered
-2. List
+- The perfect solution for quick and custom game jam music!
 
-**Bold** and _Italic_ and `Code` text
+## Demo:
+### Please download the editor to see if it will suit your needs (while I think it's a fine generator, it's by no means a 1-1 replacement for custom music by a composer). The downloads below will allow you to create and play configurations but does not support incorporating those configurations into your game or app. For the full generator please visit the unity asset store page [here](https://www.assetstore.unity3d.com/#!/content/99791)
 
-[Link](url) and ![Image](src)
-```
+### Linux:
+[Download for Linux](https://github.com/StickAndBindleGames/ProceduralMusicPlayer_Linux)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Mac:
+[Download for Mac](https://github.com/StickAndBindleGames/ProceduralMusicPlayer_Mac)
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/StickAndBindleGames/ProceduralMusicPlayer_Win/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Windows:
+[Download for Windows](https://github.com/StickAndBindleGames/ProceduralMusicPlayer_Win)

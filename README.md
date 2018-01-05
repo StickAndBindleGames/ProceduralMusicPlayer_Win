@@ -2,7 +2,8 @@
 
 <iframe width="854" height="480" src="https://www.youtube.com/embed/kDLc6GFdZTk" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
-## A procedural music generator that allows you to create configurations to play and edit music that's generated in real-time for your  game. 
+
+## A procedural music generator that allows you to create configurations to generate and edit music in real-time for your  game. 
 
 **Features:**
 - Over 100+ instruments and percussion to choose from.

@@ -1,12 +1,10 @@
 ![Logo](https://raw.githubusercontent.com/StickAndBindleGames/stickandbindlegames.github.io/master/Images/%20Logo.png)
 
-<iframe width="854" height="480" src="https://www.youtube.com/embed/kDLc6GFdZTk" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<iframe width="700" height="393.75" src="https://www.youtube.com/embed/kDLc6GFdZTk" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
-
-## 
 ##A procedural music generator that allows you to create configurations to generate and edit music in real-time for your  game. 
 
-**Features:**
+## Features
 - Over 100+ instruments and percussion to choose from.
 
 - UI Editor included to create configurations with base settings and instruments.  Export configurations to load and edit via scripting in your project.

@@ -36,7 +36,7 @@
 
 
 ## Feature and Preset examples:
-<iframe width="640" height="360" src="https://www.youtube.com/embed/dcVjY5rkUqU" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-<iframe width="640" height="360" src="https://www.youtube.com/embed/TGQM11iRRUQ" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-<iframe width="640" height="360" src="https://www.youtube.com/embed/2g6EuwNqHok?ecver=1" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-<iframe width="640" height="360" src="https://www.youtube.com/embed/P3BNIbOhSfU" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<iframe width="650" height="366" src="https://www.youtube.com/embed/dcVjY5rkUqU" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<iframe width="650" height="366" src="https://www.youtube.com/embed/TGQM11iRRUQ" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<iframe width="650" height="366" src="https://www.youtube.com/embed/2g6EuwNqHok?ecver=1" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<iframe width="650" height="366" src="https://www.youtube.com/embed/P3BNIbOhSfU" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>

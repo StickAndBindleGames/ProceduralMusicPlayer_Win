@@ -1,4 +1,4 @@
-[Back](https://stickandbindlegames.github.io)
+[<< Back](https://stickandbindlegames.github.io)
 
 ---
 

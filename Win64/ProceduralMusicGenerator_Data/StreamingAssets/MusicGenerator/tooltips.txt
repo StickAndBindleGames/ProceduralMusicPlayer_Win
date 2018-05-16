@@ -76,6 +76,7 @@
 	{"mTooltips":["ShowEditorHints", "Shows reccomended note options for the editor."]},
 	{"mTooltips":["ShowAllInstruments", "Shows the clip notes for all editor instruments."]},
 	{"mTooltips":["NumberOfMeasures", "Sets how many measures to enable for this clip."]},
+	{"mTooltips":["Arpeggio", "Similar to the strum feature. This will pluck out the chord notes individually in a randomized pattern each step."]},
 	{"mTooltips":["LeadMaxSteps","This value is the greatest scale-step a lead instrument can take in a single step."]},
 	{"mTooltips":["ClipRepeat" , "Whether or not this clip will export as a repeating or single clip."]},
 	{"mTooltips":["AsyncLoading","Whether we'll load assets asynchronously. If you plan on loading new configurations mid-level and have smaller ram requirements, this is the smoother option for framerates but will take longer to load. Otherwise, load the config at level or app start (if you have plenty of memory overhead, feel free to pre-load instruments for multiple configurations by using MusicGenerator.LoadBaseClips() for each instrument you'll need during the level. This drastically cuts down the time to switch songs, at the expense of longer load times to load in the music assets and the memory needed for them. This is used more for testing in the music editor here than ensuring this config will load asynchronously. Set via code before loading if you want async loading in your app."]},

@@ -1,0 +1,1 @@
+{"mVersion":1.100000023841858,"mExcludedProgSteps":[false,false,false,true,false,true,false],"mTonicInfluence":100.0,"mSubdominantInfluence":89.25945281982422,"mDominantInfluence":100.0,"mTritoneSubInfluence":68.78073120117188}

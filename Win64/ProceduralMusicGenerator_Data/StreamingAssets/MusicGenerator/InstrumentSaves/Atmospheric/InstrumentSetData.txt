@@ -1,0 +1,1 @@
+{"mVersion":1.100000023841858,"mTimeSignature":0,"mProgressionRate":4,"mTempo":47.85470962524414,"mRepeatMeasuresNum":1}
